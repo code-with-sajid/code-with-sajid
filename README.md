@@ -4,10 +4,10 @@
 <hr> 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sharukhjayker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sharukhjayker" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/shahrukh-hussain-5831001b1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/shahrukh-hussain-5831001b1" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100005110628468&mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100005110628468&mibextid=zbwkwl" height="30" width="40" /></a>
-<a href="https://www.instagram.com/shahrukhdeveloper2024?igsh=N2szeXJqM2I5bnhm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shahrukhjk" height="30" width="40" /></a>
+
+<a href="http://www.linkedin.com/in/muhammadsajiddev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/shahrukh-hussain-5831001b1" height="30" width="40" /></a>
+<a href="https://www.facebook.com/msajiddev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100005110628468&mibextid=zbwkwl" height="30" width="40" /></a>
+
 </p>
 <hr> 
 <h3 align="left">💻 Tech Stack:</h3>
